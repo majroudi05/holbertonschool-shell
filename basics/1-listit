@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -l)"
+echo "$(ls |cut -f 1 -d'.' |sort)"
