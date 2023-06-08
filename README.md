@@ -1,1 +1,1 @@
-echo" The new repo of Shell,basics"
+The new repo of shell basics
