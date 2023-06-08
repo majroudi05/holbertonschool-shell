@@ -1,0 +1,1 @@
+echo" The new repo of Shell,basics"
