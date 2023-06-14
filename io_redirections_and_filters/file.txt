@@ -1,5 +1,8 @@
-C#
+qC#
+C.
 C
+java!
+ASP.
 Javascript
 Perl
 PHP

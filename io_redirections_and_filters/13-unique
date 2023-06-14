@@ -1,2 +1,2 @@
 #!/bin/bash
-cat file.txt | sort | uniq -u
+cat file.txt | tr -s '[:space:]' '\n'  | sort | uniq -u
